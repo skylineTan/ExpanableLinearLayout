@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpanableLinearlayout</string>
+
+    <string name="ic_calendar">日历</string>
+    <string name="ic_camera">相机</string>
+    <string name="ic_cloud">云</string>
+    <string name="ic_music">音乐</string>
+    <string name="ic_more">更多</string>
+
+</resources>
