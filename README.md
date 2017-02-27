@@ -3,7 +3,7 @@
 
 截图有点不太清楚，关于如何使用，可以看我的sample module      
 
-![image](https://raw.githubusercontent.com/skylineTan/ExpanableLinearlayout/master/images/show.gif)
+![image](https://raw.githubusercontent.com/skylineTan/ExpanableLinearlayout/master/images/image.mov)
 
 
 License
