@@ -1,15 +1,15 @@
 # ExpanableLinearLayout
-可以扩展和伸缩的LinearLayout，可以展示一些无法在屏幕上显示完全的信息
+LinearLayout with scaling and expanding.It can show some can not display the complete information on the screen.
 
-截图有点不太清楚，关于如何使用，可以看我的sample module      
+About how to use, you can see my sample module.      
 
-![image](https://raw.githubusercontent.com/skylineTan/ExpanableLinearlayout/master/images/show.gif)
+![image](https://github.com/skylineTan/ExpanableLinearLayout/blob/master/images/show1.gif)
 
 
 License
 =======
 
-    Copyright 2016 skylineTan
+    Copyright 2016-2021 skylineTan
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
